@@ -1,0 +1,4 @@
+#Wed Nov 16 13:32:09 CET 2022
+base.0=/home/paul.marniquet/delivery/Expériences HUB/Random/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
