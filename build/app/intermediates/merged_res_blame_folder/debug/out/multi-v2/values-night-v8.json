@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/paul.marniquet/delivery/Expériences HUB/Random/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/paul.marniquet/delivery/Github/Rapdom/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/paul.marniquet/delivery/Expériences HUB/Random/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/paul.marniquet/delivery/Github/Rapdom/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
                   Navigator.push(context, PlayPage());
                 },
                 child: Image.network(
-                    "https://rapscript.net/wp-content/uploads/2019/09/rapscript-logo.png",
+                    "https://github.com/paulmarniquet/Rapdom/blob/main/assets/images/logo.png?raw=true",
                     width: 350,
                     height: 350),
               )
